@@ -1,4 +1,8 @@
 _repo: Spanish-Arms-and-Armour-Being-a-Historical-and-Descriptive-Account-of-the-Royal-Armoury-of-Ma__47878
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 47878-h/images/cover.jpg
 creator:
   author:
     agent_name: Calvert, Albert Frederick
@@ -8,6 +12,8 @@ creator:
     gutenberg_agent_id: '39139'
     url: http://www.gutenberg.org/2009/agents/39139
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/47878#Spanish-Arms-and-Armour-Being-a-Historical-and-Descriptive-Account-of-the-Royal-Armoury-of-Ma_
 gutenberg_issued: '2015-01-05'
 gutenberg_type: Text
 identifiers:
